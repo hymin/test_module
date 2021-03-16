@@ -1,3 +1,3 @@
 package mytest
 
-const testConst = 3.14
+const TestConst = 3.14
