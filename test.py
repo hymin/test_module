@@ -1,4 +1,2 @@
-import os
-
 if __name__=='__main__':
-    print(os.mkdir())
+    print("hello, world")
